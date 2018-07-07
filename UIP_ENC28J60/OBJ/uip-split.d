@@ -1,0 +1,10 @@
+..\obj\uip-split.o: ..\uip\uip\uip-split.c
+..\obj\uip-split.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\uip-split.o: ..\uip\uip\uip-split.h
+..\obj\uip-split.o: ..\uip\uip\uip.h
+..\obj\uip-split.o: ..\uip\uip\uipopt.h
+..\obj\uip-split.o: ..\uip\unix\uip-conf.h
+..\obj\uip-split.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+..\obj\uip-split.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\uip-split.o: ..\uip\uip\uip-fw.h
+..\obj\uip-split.o: ..\uip\uip\uip_arch.h

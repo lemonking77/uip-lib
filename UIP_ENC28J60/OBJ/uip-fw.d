@@ -1,0 +1,9 @@
+..\obj\uip-fw.o: ..\uip\uip\uip-fw.c
+..\obj\uip-fw.o: ..\uip\uip\uip.h
+..\obj\uip-fw.o: ..\uip\uip\uipopt.h
+..\obj\uip-fw.o: ..\uip\unix\uip-conf.h
+..\obj\uip-fw.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+..\obj\uip-fw.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\uip-fw.o: ..\uip\uip\uip_arch.h
+..\obj\uip-fw.o: ..\uip\uip\uip-fw.h
+..\obj\uip-fw.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

@@ -1,0 +1,16 @@
+..\obj\stats.o: ..\LWIP-1.4.1\src\core\stats.c
+..\obj\stats.o: ..\LWIP-1.4.1\src\include\lwip/opt.h
+..\obj\stats.o: ..\LWIP-1.4.1\src\include\arch\lwipopts.h
+..\obj\stats.o: ..\LWIP-1.4.1\src\include\arch\cc.h
+..\obj\stats.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\stats.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\stats.o: ..\LWIP-1.4.1\src\include\lwip/debug.h
+..\obj\stats.o: ..\LWIP-1.4.1\src\include\lwip/arch.h
+..\obj\stats.o: ..\LWIP-1.4.1\src\include\lwip/opt.h
+..\obj\stats.o: ..\LWIP-1.4.1\src\include\lwip/def.h
+..\obj\stats.o: ..\LWIP-1.4.1\src\include\lwip/stats.h
+..\obj\stats.o: ..\LWIP-1.4.1\src\include\lwip/mem.h
+..\obj\stats.o: ..\LWIP-1.4.1\src\include\lwip/memp.h
+..\obj\stats.o: ..\LWIP-1.4.1\src\include\lwip/memp_std.h
+..\obj\stats.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\stats.o: ..\LWIP-1.4.1\src\include\lwip/memp_std.h

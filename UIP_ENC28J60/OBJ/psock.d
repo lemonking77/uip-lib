@@ -1,0 +1,12 @@
+..\obj\psock.o: ..\uip\uip\psock.c
+..\obj\psock.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\psock.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\psock.o: ..\uip\uip\uipopt.h
+..\obj\psock.o: ..\uip\unix\uip-conf.h
+..\obj\psock.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+..\obj\psock.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\psock.o: ..\uip\uip\psock.h
+..\obj\psock.o: ..\uip\uip\pt.h
+..\obj\psock.o: ..\uip\uip\lc.h
+..\obj\psock.o: ..\uip\uip\lc-switch.h
+..\obj\psock.o: ..\uip\uip\uip.h
